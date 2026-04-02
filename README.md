@@ -1,35 +1,19 @@
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hlw2326&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</p>
 
-<h1 align="center">你好，我是 hlw2326</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=500&lines=%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85+%E2%9C%A8" alt="Typing SVG" />
-</p>
+<h3 align="left">关于我</h3>
 
-&nbsp;
-
----
-
-## 关于我
-
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/全栈开发-FF6C37?style=for-the-badge" />
   <img src="https://img.shields.io/badge/独立开发-4FC08D?style=for-the-badge" />
   <img src="https://img.shields.io/badge/开源贡献者-58A6FF?style=for-the-badge" />
 </p>
 
-<p align="center">
+<p align="left">
   一名热爱技术的独立开发者，能够独立完成从需求分析、UI 设计、前端开发、后端架构到部署上线的完整项目。擅长移动端 App 与网站的全栈开发，追求简洁优雅的代码，注重用户体验与系统性能的平衡。活跃于开源社区，乐于分享技术心得。
 </p>
 
-&nbsp;
+<h3 align="left">技术栈</h3>
 
----
-
-## 技术栈
-
-<h3 align="center">后端开发</h3>
+<h4 align="center">后端开发</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -37,7 +21,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<h3 align="center">前端开发</h3>
+<h4 align="center">前端开发</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -47,7 +31,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-<h3 align="center">移动端开发</h3>
+<h4 align="center">移动端开发</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -55,7 +39,7 @@
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
-<h3 align="center">网站开发</h3>
+<h4 align="center">网站开发</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
@@ -65,7 +49,7 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
 </p>
 
-<h3 align="center">数据库</h3>
+<h4 align="center">数据库</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
@@ -74,7 +58,7 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-<h3 align="center">运维工具</h3>
+<h4 align="center">运维工具</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -84,7 +68,7 @@
   <img src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white" />
 </p>
 
-<h3 align="center">云服务与部署</h3>
+<h4 align="center">云服务与部署</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/阿里云-FF6A00?style=for-the-badge&logo=alibaba&logoColor=white" />
   <img src="https://img.shields.io/badge/腾讯云-00A1E9?style=for-the-badge&logo=tencent-qq&logoColor=white" />
@@ -92,7 +76,7 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-<h3 align="center">开发工具</h3>
+<h4 align="center">开发工具</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
@@ -105,20 +89,7 @@
 
 ---
 
-## 数据统计
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hlw2326&theme=radical&hide_border=false&border_radius=10&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hlw2326&theme=radical&hide_border=false&border_radius=10&layout=compact)
-
-</div>
-
-&nbsp;
-
----
-
-## 联系方式
+<h3 align="center">联系方式</h3>
 
 <p align="center">
   <a href="https://www.hlw2326.com">
