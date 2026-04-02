@@ -1,82 +1,139 @@
-# 🙋 Hello, World!
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=500&lines=%E2%9C%A8+%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E2%80%A6" alt="Typing SVG" />
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hlw2326&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hlw2326&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
-</div>
+<h1 align="center">你好，我是 hlw2326</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=500&lines=%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85+%E2%9C%A8" alt="Typing SVG" />
+</p>
+
+&nbsp;
 
 ---
 
-## 📊 GitHub Stats
+## 关于我
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/全栈开发-FF6C37?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/独立开发-4FC08D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/开源贡献者-58A6FF?style=for-the-badge" />
+</p>
 
-![hlw2326's GitHub stats](https://github-readme-stats.vercel.app/api?username=hlw2326&show_icons=true&theme=radical&hide_border=false&border_radius=10&include_all_commits=true&count_private=true)
+<p align="center">
+  一名热爱技术的独立开发者，能够独立完成从需求分析、UI 设计、前端开发、后端架构到部署上线的完整项目。擅长移动端 App 与网站的全栈开发，追求简洁优雅的代码，注重用户体验与系统性能的平衡。活跃于开源社区，乐于分享技术心得。
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=hlw2326&theme=radical&hide_border=false&border_radius=10&background=0D1117)
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-
-</div>
+&nbsp;
 
 ---
 
-## 📌 Top Projects
+## 技术栈
 
-<div align="center">
+<h3 align="center">后端开发</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-| Project | ⭐ Stars | 🔧 Description |
-|---|---|---|
-| [think-sql-data](https://github.com/hlw2326/think-sql-data) | ![Stars](https://img.shields.io/github/stars/hlw2326/think-sql-data?style=flat-square&logo=github) | ThinkAdmin 数据库备份插件 |
+<h3 align="center">前端开发</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
-</div>
+<h3 align="center">移动端开发</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+<h3 align="center">网站开发</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elementor-920039?style=for-the-badge&logo=elementor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-F05232?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/ThinkPHP-0087BE?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+</p>
+
+<h3 align="center">数据库</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+<h3 align="center">运维工具</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white" />
+</p>
+
+<h3 align="center">云服务与部署</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/阿里云-FF6A00?style=for-the-badge&logo=alibaba&logoColor=white" />
+  <img src="https://img.shields.io/badge/腾讯云-00A1E9?style=for-the-badge&logo=tencent-qq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+<h3 align="center">开发工具</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" />
+</p>
+
+&nbsp;
 
 ---
 
-## 📈 Contribution Graph
+## 数据统计
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/hlw2326/hlw2326/output/github-contribution-grid-snake.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hlw2326&theme=radical&hide_border=false&border_radius=10&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hlw2326&theme=radical&hide_border=false&border_radius=10&layout=compact)
 
 </div>
+
+&nbsp;
 
 ---
 
-## 🔗 Connect with Me
+## 联系方式
 
-<div align="center">
+<p align="center">
+  <a href="https://www.hlw2326.com">
+    <img src="https://img.shields.io/badge/Website-www.hlw2326.com-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/hlw2326">
+    <img src="https://img.shields.io/badge/GitHub-hlw2326-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/WeChat-hlw2326-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+</p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hlw2326)
-
-</div>
+&nbsp;
 
 ---
 
-<div align="center">
-
-> 💡 *"Talk is cheap, show me the code."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
-
-</div>
-"# hlw2326" 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
+</p>
